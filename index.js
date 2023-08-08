@@ -8,7 +8,7 @@ console.log("Welcome " + username);
 
 console.log("1)5 Question will be asked on any movie.")
 console.log("2)Out of 4 option You have to choose.")
-console.log("3)Correct answer will increment score by 2.")
+console.log("3)Correct answer will increment score by 1.")
 console.log("4)Incorrect answer will decrement score by 1.")
 console.log("")
 console.log("")
